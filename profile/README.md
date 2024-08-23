@@ -29,6 +29,10 @@
 - JUnit & Kotest
 - Swagger
 
+## 설계 산출물
+- [Wiki](https://github.com/beadal-legend/foody/wiki)
+- [논의 사항](https://github.com/beadal-legend/foody/discussions)
+
 ## 🙋‍♀️구성원
 - [김용재](https://github.com/uzjaee)
 - [이아린](https://github.com/linavell)
