@@ -8,7 +8,7 @@
 | ---------- | :--------- |
 |IDE|IntelliJ|
 |Language|Java 17|
-|Framework|Spring Boot 3.3.2|
+|Framework|Spring Boot 3.3.3|
 |Repository|H2 In-memory, PostgreSQL 16.4|
 |Build Tool|Gradle 8.8|
 |DevOps - dev|EC2, ECR, ALB, ACM, RDS(PostreSQL), Docker(Jib), Gihub Actions|
